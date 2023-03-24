@@ -1,1 +1,1 @@
-scroll("#main");
+scroll("main");
